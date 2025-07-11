@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "UND2_ACT1.Controllers.ProductosController",
+    "Method": "ObtenerProductos",
+    "RelativePath": "Productos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UND2_ACT1.Controllers.ProductosController",
+    "Method": "CrearProducto",
+    "RelativePath": "Productos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "UND2_ACT1.Controllers.Producto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

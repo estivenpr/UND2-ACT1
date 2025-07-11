@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UND2-ACT1.props" />
+</Project>

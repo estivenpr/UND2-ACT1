@@ -1,0 +1,6 @@
+@UND2_ACT1_HostAddress = http://localhost:5169
+
+GET {{UND2_ACT1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
